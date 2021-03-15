@@ -14,7 +14,6 @@ public class Login {
 		System.out.println("login class");
 		System.out.println("Hello");
 		int k =10;
-		System.out.println("hii");
 		
 		
 	}
